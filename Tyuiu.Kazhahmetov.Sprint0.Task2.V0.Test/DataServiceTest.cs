@@ -1,6 +1,5 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-
 using Tyuiu.Kazhahmetov.Sprint0.Task2.V0.Lib;
 
 namespace Tyuiu.Kazhahmetov.Sprint0.Task2.V0.Test
